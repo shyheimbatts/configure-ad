@@ -32,25 +32,27 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1236" height="243" alt="Azure step 1" src="https://github.com/user-attachments/assets/55107137-36f5-4a32-9e96-a0ac20a0c123" />
+<img width="1432" height="625" alt="Azure step 2" src="https://github.com/user-attachments/assets/61a69690-eaf6-421b-ae65-e32944effcb2" />
+<img width="878" height="769" alt="Azure step 3" src="https://github.com/user-attachments/assets/8e20a6b0-cc8c-43fb-8067-1247ddb19052" />
+<img width="409" height="761" alt="Azure step 4" src="https://github.com/user-attachments/assets/9cace6d5-84c9-48ff-a7d7-2ea2c739531a" />
+<img width="1068" height="178" alt="Azure step 5" src="https://github.com/user-attachments/assets/d1d053fe-e571-440f-909d-4312b6ec34e1" />
+<img width="1199" height="585" alt="Azure step 6" src="https://github.com/user-attachments/assets/97a0e4bc-4171-4067-ae44-eee612dddf0f" />
+<img width="784" height="734" alt="Azure step 7" src="https://github.com/user-attachments/assets/af00e42f-cf39-4ad8-9dbf-3b7c7f3184b3" />
+<img width="554" height="739" alt="Azure step 8" src="https://github.com/user-attachments/assets/518c0e3b-fc73-4082-bfa8-b26afd1ac0c1" />
+<img width="1137" height="185" alt="Azure step 9" src="https://github.com/user-attachments/assets/419d8103-6935-4019-8f28-f653a7b48580" />
+<img width="1388" height="568" alt="Azure step 10" src="https://github.com/user-attachments/assets/33b26c97-77b1-44be-9ff3-14dc250f0b69" />
+<img width="864" height="700" alt="Azure step 11" src="https://github.com/user-attachments/assets/4792577b-b137-4835-80ad-6a8b600b279a" />
+<img width="1075" height="528" alt="Azure step 12" src="https://github.com/user-attachments/assets/362dee79-1a6f-434f-805d-2b63781f9c62" />
+<img width="758" height="554" alt="Azure step 13" src="https://github.com/user-attachments/assets/c45cecef-ea8e-4e22-9713-295a392de2db" />
+<img width="439" height="52" alt="Azure step 14" src="https://github.com/user-attachments/assets/51cf9d7f-9d39-444d-9704-b53a9777589b" />
+<img width="771" height="618" alt="Azure step 15" src="https://github.com/user-attachments/assets/b827d02b-398e-4f90-96ee-59066bc1d5e4" />
+<img width="779" height="682" alt="Azure step 16" src="https://github.com/user-attachments/assets/cc9f9e4a-b5ef-469d-9e4e-d270bd6ef5ec" />
+
+  
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
