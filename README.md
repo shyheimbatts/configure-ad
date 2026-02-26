@@ -32,7 +32,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/dddd7d60-b01f-4e4e-a321-0f5f49395254" />
+<p>
+<img width="435" height="224" alt="Azure step 31" src="https://github.com/user-attachments/assets/b56c67c2-5b4d-4af4-8c77-308f6f395b84" />
+</p>
+<img width="579" height="158" alt="Azure step 32" src="https://github.com/user-attachments/assets/28c32b2f-960c-4e03-8d91-e8ac9db078ad" />
+  
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
