@@ -279,6 +279,28 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 <img width="432" height="148" alt="Azure step 144" src="https://github.com/user-attachments/assets/f92bfe13-2077-42ee-b625-f600bee6e70b" />
 </p>
+configure group policy
 <p>
-<img width="345" height="466" alt="Azure step 145" src="https://github.com/user-attachments/assets/eec0f6ad-3eec-497a-b865-105e5ad5eaa0" />
+<img width="245" height="534" alt="Screenshot 2026-03-03 at 2 16 13 AM" src="https://github.com/user-attachments/assets/e89f6f23-0753-4aaa-a80d-23cafa7e9a09" />
+</p>
+<p>
+<img width="366" height="188" alt="Screenshot 2026-03-03 at 2 17 16 AM" src="https://github.com/user-attachments/assets/022f1ef5-2492-4564-9a8f-4c4036ab13f1" />
+</p>
+<p>
+<img width="434" height="711" alt="Screenshot 2026-03-03 at 2 19 28 AM" src="https://github.com/user-attachments/assets/4c0186c0-0107-4279-859d-f4345c25db84" />
+</p>
+<p>
+<img width="726" height="478" alt="Screenshot 2026-03-03 at 2 21 54 AM" src="https://github.com/user-attachments/assets/4aca44f9-b768-422b-85b2-5a029b778e2e" />
+</p>
+<p>
+<img width="548" height="442" alt="Screenshot 2026-03-03 at 2 35 52 AM" src="https://github.com/user-attachments/assets/ff61d9ae-6cf5-47f3-b245-691830da7c88" />
+</p>
+<p>
+<img width="382" height="468" alt="Screenshot 2026-03-03 at 2 38 07 AM" src="https://github.com/user-attachments/assets/1e0b54f9-5f2b-4a50-90de-5ac56d495173" />
+</p>
+<p>
+<img width="472" height="240" alt="Screenshot 2026-03-03 at 2 49 16 AM" src="https://github.com/user-attachments/assets/7370c2d0-7f2f-48a8-8343-fb7be5eb4a8e" />
+</p>
+<p>
+<img width="512" height="136" alt="Screenshot 2026-03-03 at 2 51 04 AM" src="https://github.com/user-attachments/assets/e6ced7d5-ef8c-4bbb-baf3-ea2326c6553f" />
 </p>
