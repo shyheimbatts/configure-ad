@@ -316,3 +316,12 @@ configure group policy
 <p>
 <img width="278" height="401" alt="Screenshot 2026-03-03 at 5 25 30 PM" src="https://github.com/user-attachments/assets/a4c1498d-84cc-4d10-9c81-3aab08ca0a84" />
 </p>
+<p>
+<img width="362" height="622" alt="Screenshot 2026-03-03 at 6 26 35 PM" src="https://github.com/user-attachments/assets/e96d145f-fb8c-41ac-a668-7ea44e4d41cb" />
+</p>
+<p>
+<img width="904" height="475" alt="Screenshot 2026-03-03 at 6 38 02 PM" src="https://github.com/user-attachments/assets/b31de5e5-cb7c-4f8a-9a4b-fec0aeb3e755" />
+</p>
+<p>
+<img width="237" height="324" alt="Screenshot 2026-03-03 at 6 46 06 PM" src="https://github.com/user-attachments/assets/84c1ce79-6b43-4293-bb63-f86eb9e2e766" />
+</p>
