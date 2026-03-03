@@ -304,3 +304,9 @@ configure group policy
 <p>
 <img width="512" height="136" alt="Screenshot 2026-03-03 at 2 51 04 AM" src="https://github.com/user-attachments/assets/e6ced7d5-ef8c-4bbb-baf3-ea2326c6553f" />
 </p>
+<p>
+<img width="364" height="220" alt="Screenshot 2026-03-03 at 2 57 59 PM" src="https://github.com/user-attachments/assets/2ba0b71b-c141-4158-92b2-b82f9fac4e17" />
+</p>
+<p>
+<img width="430" height="151" alt="Azure step 106" src="https://github.com/user-attachments/assets/cfb261a7-e86b-42dd-ae5e-2f1633376572" />
+</p>
