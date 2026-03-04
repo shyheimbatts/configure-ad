@@ -256,10 +256,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img width="712" height="615" alt="Azure step 139" src="https://github.com/user-attachments/assets/498881b5-50f5-47d8-abc3-7f629ea2b1af" />
 </p>
 <p>
-<img width="425" height="157" alt="Azure step 140" src="https://github.com/user-attachments/assets/2e2a899d-3c0c-4a1c-a320-9e973198ea33" />
+<img width="432" height="148" alt="Azure step 144" src="https://github.com/user-attachments/assets/773ac60d-f92d-42cb-ac1c-979816ff403d" />
 </p>
 <p>
-<img width="377" height="494" alt="Azure step 141" src="https://github.com/user-attachments/assets/8a03dbc3-1e6a-4eba-90c8-9bcf01b079dc" />
+<img width="345" height="466" alt="Azure step 145" src="https://github.com/user-attachments/assets/333e08d6-06e5-4ef4-9dd6-0ac6ce181cbc" />
 </p>
 <p>
 <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/6f8af8d9-febf-4251-adfb-f88c1631f569" />
