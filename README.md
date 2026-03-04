@@ -325,3 +325,13 @@ configure group policy
 <p>
 <img width="237" height="324" alt="Screenshot 2026-03-03 at 6 46 06 PM" src="https://github.com/user-attachments/assets/84c1ce79-6b43-4293-bb63-f86eb9e2e766" />
 </p>
+<p>
+<img width="373" height="221" alt="Screenshot 2025-11-20 at 9 27 55 PM" src="https://github.com/user-attachments/assets/6eb79334-8750-4de7-90de-60d62cde6dc8" />
+</p>
+<p>
+<img width="426" height="140" alt="Screenshot 2025-11-20 at 9 25 34 PM" src="https://github.com/user-attachments/assets/a9f9f1b3-c0ca-47bb-acd0-ab4d19d80cf3" />
+</p>
+after 6 failed log in attempts
+<p>
+<img width="253" height="305" alt="Azure step 142" src="https://github.com/user-attachments/assets/bf531b9f-b6f4-4fd7-98ab-a8cf8516d5eb" />
+</p>
