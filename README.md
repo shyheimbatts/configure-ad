@@ -253,7 +253,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img width="500" height="325" alt="Azure step 138" src="https://github.com/user-attachments/assets/88c9c74b-5627-4e8e-aaf7-484b99ebb69c" />
 </p>
 <p>
-<img width="712" height="658" alt="Azure step 139" src="https://github.com/user-attachments/assets/afde1dad-946e-44e5-a67c-e7a7e7216e9c" />
+<img width="712" height="615" alt="Azure step 139" src="https://github.com/user-attachments/assets/498881b5-50f5-47d8-abc3-7f629ea2b1af" />
 </p>
 <p>
 <img width="425" height="157" alt="Azure step 140" src="https://github.com/user-attachments/assets/2e2a899d-3c0c-4a1c-a320-9e973198ea33" />
