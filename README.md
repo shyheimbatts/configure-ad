@@ -359,3 +359,26 @@ after 6 failed log in attempts
 <p>
 <img width="405" height="531" alt="Azure step 148" src="https://github.com/user-attachments/assets/be122f64-6dc8-47ef-a613-95d32ed677c7" />
 </p>
+
+
+
+
+
+
+
+
+
+<p>
+<img width="507" height="305" alt="Screenshot 2025-11-20 at 9 11 19 PM" src="https://github.com/user-attachments/assets/fd0a6b5c-6126-48f8-9080-c6fd6f03842c" />
+</p>
+<p>
+<img width="513" height="140" alt="Screenshot 2025-11-20 at 9 11 47 PM" src="https://github.com/user-attachments/assets/49106e91-89c4-4189-9be4-4e3647b8b5cf" />
+</p>
+<p>
+<img width="376" height="249" alt="Screenshot 2025-11-20 at 9 13 23 PM" src="https://github.com/user-attachments/assets/97da55d1-1d9e-4697-b9d2-5cbcb1f2a2f3" />
+</p>
+
+
+
+
+
