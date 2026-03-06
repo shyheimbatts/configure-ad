@@ -392,6 +392,10 @@ after 6 failed log in attempts
 <p>
 <img width="516" height="436" alt="Screenshot 2025-11-20 at 9 27 19 PM" src="https://github.com/user-attachments/assets/372e98de-b4a6-41eb-90c3-eafa8f84ef80" />
 </p>
-
-
+<p>
+<img width="432" height="148" alt="Azure step 144" src="https://github.com/user-attachments/assets/7d29ca1f-d175-4978-8ba5-1ebc94a707a0" />
+</p>
+<p>
+<img width="345" height="466" alt="Azure step 145" src="https://github.com/user-attachments/assets/93e11b48-93fb-4eef-bbce-519c175dce1f" />
+</p>
 
