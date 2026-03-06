@@ -380,7 +380,9 @@ after 6 failed log in attempts
 <p>
 <img width="511" height="427" alt="Screenshot 2025-11-20 at 9 21 25 PM" src="https://github.com/user-attachments/assets/2e359962-7766-4afb-aba0-0eda20e86803" />
 </p>
-
+<p>
+<img width="365" height="220" alt="Screenshot 2026-03-05 at 10 24 11 PM" src="https://github.com/user-attachments/assets/d06fc819-3d67-4ffc-8751-929b783155f2" />
+</p>
 
 
 
