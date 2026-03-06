@@ -424,3 +424,9 @@ after 6 failed log in attempts
 <p>
 <img width="449" height="584" alt="Screenshot 2025-11-20 at 10 49 35 PM" src="https://github.com/user-attachments/assets/ce449dda-316b-4c5b-b6e4-8365063ffddf" />
 </p>
+<p>
+<img width="818" height="164" alt="Screenshot 2025-11-20 at 11 07 28 PM" src="https://github.com/user-attachments/assets/069b0a46-3a26-4862-8656-82d04bf4431b" />
+</p>
+<p>
+<img width="892" height="175" alt="Screenshot 2025-11-20 at 11 10 45 PM" src="https://github.com/user-attachments/assets/50184b7e-a461-419e-803f-4481b71b518e" />
+</p>
