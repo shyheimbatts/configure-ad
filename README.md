@@ -400,8 +400,9 @@ after 6 failed log in attempts
 </p>
 
 
-paste a screen shot of DC - 1 
-
+<p>
+<img width="364" height="232" alt="Screenshot 2026-03-06 at 2 18 11 AM" src="https://github.com/user-attachments/assets/fe923759-8541-4977-b090-8cecb0841b9d" />
+</p>
 <P>
 <img width="318" height="675" alt="Screenshot 2025-11-20 at 9 34 21 PM" src="https://github.com/user-attachments/assets/af1fdfd0-05ba-4ec0-aae7-cb700ae726a9" />
 </P>
@@ -410,4 +411,16 @@ paste a screen shot of DC - 1
 </P>
 <p>
 <img width="298" height="174" alt="Screenshot 2025-11-20 at 9 35 35 PM" src="https://github.com/user-attachments/assets/8ef9a564-529d-4b80-8d2b-2bf3f93592ab" />
+</p>
+<p>
+<img width="420" height="121" alt="Screenshot 2025-11-20 at 9 35 49 PM" src="https://github.com/user-attachments/assets/6b1255c8-55cb-4b1e-83fc-9fa9b8d13cb5" />
+</p>
+<p>
+<img width="365" height="220" alt="Screenshot 2026-03-05 at 10 24 11 PM" src="https://github.com/user-attachments/assets/9e9797ca-bc0a-4fd2-9654-1975f4486390" />
+</p>
+<p>
+<img width="651" height="215" alt="Screenshot 2025-11-20 at 10 47 14 PM" src="https://github.com/user-attachments/assets/55e42695-8912-4658-b92b-c17edba7a04b" />
+</p>
+<p>
+<img width="449" height="584" alt="Screenshot 2025-11-20 at 10 49 35 PM" src="https://github.com/user-attachments/assets/ce449dda-316b-4c5b-b6e4-8365063ffddf" />
 </p>
