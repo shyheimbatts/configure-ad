@@ -111,22 +111,53 @@ Log into the Virtual Machine.↓
 </p>
 
 <img width="778" height="553" alt="Azure step 65" src="https://github.com/user-attachments/assets/e566bd89-6f07-4389-a953-87e927cf2c3b" />
+
+
+<p>
+
+**Click Next↓**
+ 
+</p>
+
+
 <img width="761" height="509" alt="Azure step 66" src="https://github.com/user-attachments/assets/fe88baaa-aeca-4f25-9c92-28108868301f" />
+
+
+
 <p>
 <img width="337" height="183" alt="Azure step 67" src="https://github.com/user-attachments/assets/cc0b21f5-0cf7-4803-ae05-665815d9bafc" />
 </p>
+
+
 <img width="415" height="436" alt="Azure step 68" src="https://github.com/user-attachments/assets/00a265b4-dbd4-4265-b10a-5fddb66a8217" />
+
+
 <p>
 <img width="584" height="454" alt="Azure step 69" src="https://github.com/user-attachments/assets/f5ae9f12-4a29-4a20-a8df-109173eddb25" />
 </p>
+
+
+
 <img width="585" height="427" alt="Azure step 70" src="https://github.com/user-attachments/assets/c8922291-6e86-4bc6-9cd8-1ed4242f93eb" />
+
+
 <img width="581" height="450" alt="Azure step 71" src="https://github.com/user-attachments/assets/be838879-4a81-445a-a64c-dca53e86104b" />
+
+
 <img width="683" height="402" alt="Azure step 72" src="https://github.com/user-attachments/assets/fdffbb4d-30d2-4b6e-a2df-3fdc0b9d8cb7" />
+
+
 <img width="578" height="447" alt="Azure step 73" src="https://github.com/user-attachments/assets/79bbbd9e-9192-4f9d-aa70-2b2576417aa4" />
+
+
 <img width="587" height="453" alt="Azure step 74" src="https://github.com/user-attachments/assets/3da184ee-c107-4f29-b144-8ecd4d8b9ec3" />
+
+
 <p>
 <img width="359" height="326" alt="Azure step 75" src="https://github.com/user-attachments/assets/a8e2a80a-2b3e-43aa-a6da-53dce7753f65" />
 </p>
+
+
 <img width="758" height="557" alt="Azure step 76" src="https://github.com/user-attachments/assets/3bf2149e-4f72-4587-9008-188acd1492f7" />
 <img width="759" height="557" alt="Azure step 77" src="https://github.com/user-attachments/assets/e4211474-1c25-4ca6-bce2-ced45e9f3c4d" />
 <img width="753" height="528" alt="Azure step 78" src="https://github.com/user-attachments/assets/089efa1f-072a-4543-a335-126a7d3f81c5" />
