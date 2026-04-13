@@ -430,7 +430,7 @@ User logon name: jane_admin
 
 <p>
 
-**Fill in new user password**
+**Fill in new user password↓**
 
 <p>
 Password: Myworldlab123! 
@@ -444,21 +444,23 @@ Confirm Password: Myworldlab123!
 
 **Check mark next to "Password never expires."**
 
-**Click "NEXT"**
+**Click "NEXT"↓**
 
  
 </p>
 
-
-
- 
-</p>
 
 
 
 <p> 
 <img width="431" height="372" alt="Azure step 94" src="https://github.com/user-attachments/assets/0c826a0a-5024-4617-8a49-e05cdbcce317" />
 </p>
+
+<p>
+Click "Finish" to officially create the new employee named "Jane Doe" ↓
+</p>
+
+
 
 <p>
 <img width="428" height="370" alt="Azure step 95" src="https://github.com/user-attachments/assets/530282e4-36fe-4eb6-a6bf-43c463428468" />
