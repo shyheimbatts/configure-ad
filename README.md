@@ -32,6 +32,14 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
+
+<p>
+
+**Step 1-** **Install Active Directory↓**
+
+</p>
+
+
 <p>
 <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/dddd7d60-b01f-4e4e-a321-0f5f49395254" />
 <p>
