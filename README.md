@@ -375,15 +375,28 @@ Password: Myworldlab123!
 
 <img width="633" height="514" alt="Azure step 87" src="https://github.com/user-attachments/assets/4a9d96f2-897a-4ae4-957d-b367262c62dd" />
 
+**Type in _EMPLOYEES and Click "OK" to save it as an Organizational Unit.↓**
+
 
 <img width="430" height="372" alt="Azure step 88" src="https://github.com/user-attachments/assets/f10a60d1-b144-46df-a9e0-0fbfd65e76ba" />
 
 
+**_EMPLOYEES Oganizational Unit↓**
+
+<p>
+ <img width="148" height="37" alt="Screenshot 2026-04-13 at 3 41 52 PM" src="https://github.com/user-attachments/assets/04a86bc9-bd38-4ef3-8357-b9ca2f983aae" />
+</p>
+
+**Right click mydomain.com again, click "New" and go to "Organizational Unit."↓**
+
 <img width="619" height="507" alt="Azure step 89" src="https://github.com/user-attachments/assets/2ca6dd23-5579-4c57-9f5e-dea7590f4ead" />
 
+**Type in _ADMINS and Click "OK" to save it as the second Organizational Unit.↓**
 
 
 <img width="436" height="371" alt="Azure step 90" src="https://github.com/user-attachments/assets/92f90c2c-f377-4dee-b1a6-5785e08bbd00" />
+
+**_ADMINS Oganizational Unit↓**
 
 <p>
 <img width="97" height="19" alt="Azure step 91" src="https://github.com/user-attachments/assets/032e4efd-9d8a-4fef-9278-fdf04dc9a384" />
