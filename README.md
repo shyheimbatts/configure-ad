@@ -35,7 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 
-**Step 1-** **Install Active Directory / Log In**
+<h2>Step 1- Install Active Directory / Log In</h2>
 
 </p>
 
@@ -354,7 +354,7 @@ Password: Myworldlab123!
 <img width="434" height="151" alt="Azure step 84" src="https://github.com/user-attachments/assets/168d4b3e-b8bc-47ab-b703-f8cf379816cb" />
 
 
-
+ <h2>Step 2- Create a Domain Admin user within the domain</h2>
 
 
 <p>
