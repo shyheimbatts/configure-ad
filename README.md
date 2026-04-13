@@ -305,23 +305,32 @@ Type in the Directory Service Restore Mode Password↓
 
 <p>
 
-**Click Install↓**
+**Click Install for the new forest to be Installed and turn this computer(vm) into a Domain Controller↓**
 
  
 </p>
 
 
 
+
 <img width="757" height="524" alt="Azure step 82" src="https://github.com/user-attachments/assets/4b41a1da-cf48-4e9b-9ca6-643630ce6a22" />
 
-
-
-
 <p>
-<img width="275" height="161" alt="Azure step 83" src="https://github.com/user-attachments/assets/a90914b5-ea95-4262-8448-ed0dea4b94b2" />
+
+**Automatic Logout from Computer↓**
+ 
 </p>
 
+<p>
+<img width="467" height="119" alt="Screenshot 2026-04-13 at 2 05 48 PM" src="https://github.com/user-attachments/assets/02fe75b2-bc8f-4ae9-b086-116704199e0f" />
+</p>
 
+<p>
+
+**Select dc-1 from miscrosoft remote desktop↓**
+
+
+</p>
 
 <p>
  <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/627c75db-dc87-4f7a-b307-6a91ae95888b" />
