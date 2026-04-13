@@ -122,14 +122,33 @@ Log into the Virtual Machine.↓
 
 <img width="761" height="509" alt="Azure step 66" src="https://github.com/user-attachments/assets/fe88baaa-aeca-4f25-9c92-28108868301f" />
 
+<p>
+
+**Click Active Directory Domain Services↓**
+ 
+</p>
 
 
 <p>
 <img width="337" height="183" alt="Azure step 67" src="https://github.com/user-attachments/assets/cc0b21f5-0cf7-4803-ae05-665815d9bafc" />
 </p>
 
+<p>
+
+**Click Add Features↓**
+ 
+</p>
+
+
+
 
 <img width="415" height="436" alt="Azure step 68" src="https://github.com/user-attachments/assets/00a265b4-dbd4-4265-b10a-5fddb66a8217" />
+
+<p>
+
+**Check Mark next to Active Directory Domain Services and Click Next↓**
+ 
+</p>
 
 
 <p>
