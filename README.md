@@ -210,10 +210,20 @@ Log into the Virtual Machine.↓
 
 
 
-
 <p>
 <img width="359" height="326" alt="Azure step 75" src="https://github.com/user-attachments/assets/a8e2a80a-2b3e-43aa-a6da-53dce7753f65" />
 </p>
+
+<p>
+
+**Click Add a new forest and Specify the domain information for this operation↓**
+
+<p>
+ Root domain name: mydomain.com
+</p>
+ 
+</p>
+
 
 
 <img width="758" height="557" alt="Azure step 76" src="https://github.com/user-attachments/assets/3bf2149e-4f72-4587-9008-188acd1492f7" />
