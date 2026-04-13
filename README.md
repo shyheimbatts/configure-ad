@@ -234,7 +234,27 @@ Log into the Virtual Machine.↓
 
 <img width="758" height="557" alt="Azure step 76" src="https://github.com/user-attachments/assets/3bf2149e-4f72-4587-9008-188acd1492f7" />
 
+<p>
 
+Type in the Directory Service Restore Mode Password↓
+
+<p>
+ Password: Password1
+</p>
+
+<p>
+ Confirm Password: Password1
+</p>
+
+
+<p>
+
+**Click Next**
+
+ 
+</p>
+ 
+</p>
 
 <img width="759" height="557" alt="Azure step 77" src="https://github.com/user-attachments/assets/e4211474-1c25-4ca6-bce2-ced45e9f3c4d" />
 
