@@ -428,6 +428,33 @@ User logon name: jane_admin
 <img width="428" height="372" alt="Azure step 93" src="https://github.com/user-attachments/assets/b3670aa3-47b1-45cb-bd0c-6438d3cc888d" />
 </p>
 
+<p>
+
+**Fill in new user password**
+
+<p>
+Password: Myworldlab123! 
+</p>
+
+<p>
+Confirm Password: Myworldlab123! 
+</p>
+
+<p>
+
+**Check mark next to "Password never expires."**
+
+**Click "NEXT"**
+
+ 
+</p>
+
+
+
+ 
+</p>
+
+
 
 <p> 
 <img width="431" height="372" alt="Azure step 94" src="https://github.com/user-attachments/assets/0c826a0a-5024-4617-8a49-e05cdbcce317" />
