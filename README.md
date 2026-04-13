@@ -221,6 +221,12 @@ Log into the Virtual Machine.↓
 <p>
  Root domain name: mydomain.com
 </p>
+
+<p>
+
+**Click Next**
+ 
+</p>
  
 </p>
 
