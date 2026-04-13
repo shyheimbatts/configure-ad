@@ -400,10 +400,29 @@ Password: Myworldlab123!
 <img width="449" height="319" alt="Azure step 92" src="https://github.com/user-attachments/assets/6b14173f-9455-469f-92df-6e635acd6d26" />
 </p>
 
+**Fill in new user information↓**
 
+<p>
+First name: Jane
+</p>
 
+<p>
+Last name: Doe 
+</p>
 
+<p>
+Full name: Jane Doe 
+</p>
 
+<p>
+User logon name: jane_admin 
+</p>
+
+<p>
+
+**Click "NEXT" to continue.**
+ 
+</p>
 
 <p>
 <img width="428" height="372" alt="Azure step 93" src="https://github.com/user-attachments/assets/b3670aa3-47b1-45cb-bd0c-6438d3cc888d" />
