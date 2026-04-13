@@ -35,14 +35,26 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <p>
 
-**Step 1-** **Install Active Directory↓**
+**Step 1-** **Install Active Directory / Log In**
 
 </p>
 
+Begin by selecting dc-1 from miscrosoft remote desktop↓ 
 
 <p>
 <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/dddd7d60-b01f-4e4e-a321-0f5f49395254" />
 <p>
+
+Log into the Virtual Machine.↓
+
+<p>
+ Username: shylabuser 
+</p>
+
+<p>
+ Password: Myworldlab123! 
+</p>
+
 <img width="435" height="224" alt="Azure step 31" src="https://github.com/user-attachments/assets/b56c67c2-5b4d-4af4-8c77-308f6f395b84" />
 </p>
 <img width="579" height="158" alt="Azure step 32" src="https://github.com/user-attachments/assets/28c32b2f-960c-4e03-8d91-e8ac9db078ad" />
