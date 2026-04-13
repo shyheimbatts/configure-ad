@@ -466,23 +466,47 @@ Click "Finish" to officially create the new employee named "Jane Doe" ↓
 <img width="428" height="370" alt="Azure step 95" src="https://github.com/user-attachments/assets/530282e4-36fe-4eb6-a6bf-43c463428468" />
 </p>
 
+<p>
+
+**Right click Jane's account and go to Properties.↓**
+
+</p>
+
+
+
 
 <p>
 <img width="411" height="356" alt="Azure step 96" src="https://github.com/user-attachments/assets/8f0d4454-aaf6-4793-962e-b16b6790f3f6" />
 </p>
 
+
+**Select "Member Of" then Click "ADD"↓**
+
+
 <p> 
 <img width="391" height="275" alt="Azure step 97" src="https://github.com/user-attachments/assets/4adbbdb2-a81f-445d-b052-38df3fac383e" />
 </p> 
+
+**Under Enter the object names to select, type in "domain admins" and click check names. Once "domain admins" is found click "OK"↓**
+
 
 <p>
 <img width="449" height="242" alt="Azure step 98" src="https://github.com/user-attachments/assets/085cf907-1ea6-4686-b35a-402fb902fcfc" />
 </p>
 
+
+**Click "Apply" and "Ok." Now this account is an actual Domain Admin↓**
+
 <img width="402" height="473" alt="Azure step 99" src="https://github.com/user-attachments/assets/6564cc2a-d360-408e-8e94-bd95c2d2772c" />
 <p>
+
+**Right Click the Start Menu → Clikc Run → Type Logoff and click enter. This is a shortcut to logout.↓**
+ 
 <img width="380" height="209" alt="Azure step 100" src="https://github.com/user-attachments/assets/efa3a978-2b5d-46ed-a1b8-3449fbdb1c9e" />
 </p>
+
+**Officially Signed Out↓**
+
 
 <p>
 <img width="220" height="153" alt="Azure step 101" src="https://github.com/user-attachments/assets/c63af1e1-252c-4353-ba9a-774932df950c" />
