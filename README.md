@@ -303,27 +303,53 @@ Type in the Directory Service Restore Mode Password↓
 
 <img width="743" height="514" alt="Azure step 81" src="https://github.com/user-attachments/assets/c2475b52-6129-496d-bcfe-09625ced4a6e" />
 
+<p>
+
+**Click Install↓**
+
+ 
+</p>
+
+
 
 <img width="757" height="524" alt="Azure step 82" src="https://github.com/user-attachments/assets/4b41a1da-cf48-4e9b-9ca6-643630ce6a22" />
+
+
 
 
 <p>
 <img width="275" height="161" alt="Azure step 83" src="https://github.com/user-attachments/assets/a90914b5-ea95-4262-8448-ed0dea4b94b2" />
 </p>
+
+
+
 <p>
-  <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/627c75db-dc87-4f7a-b307-6a91ae95888b" />
+ <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/627c75db-dc87-4f7a-b307-6a91ae95888b" />
 </p>
 
 <img width="434" height="151" alt="Azure step 84" src="https://github.com/user-attachments/assets/168d4b3e-b8bc-47ab-b703-f8cf379816cb" />
+
 <p>
 <img width="309" height="674" alt="Azure step 85" src="https://github.com/user-attachments/assets/03f177a3-0c4e-4fe9-a78e-183328dcd724" />
 </p>
+
+
+
 <p>
-  <img width="260" height="210" alt="Azure step 86" src="https://github.com/user-attachments/assets/b0a4cc58-8c0e-43e8-bf85-5e0ff21bc41a" />
+<img width="260" height="210" alt="Azure step 86" src="https://github.com/user-attachments/assets/b0a4cc58-8c0e-43e8-bf85-5e0ff21bc41a" />
 </p>
+
+
 <img width="633" height="514" alt="Azure step 87" src="https://github.com/user-attachments/assets/4a9d96f2-897a-4ae4-957d-b367262c62dd" />
+
+
 <img width="430" height="372" alt="Azure step 88" src="https://github.com/user-attachments/assets/f10a60d1-b144-46df-a9e0-0fbfd65e76ba" />
+
+
 <img width="619" height="507" alt="Azure step 89" src="https://github.com/user-attachments/assets/2ca6dd23-5579-4c57-9f5e-dea7590f4ead" />
+
+
+
 <img width="436" height="371" alt="Azure step 90" src="https://github.com/user-attachments/assets/92f90c2c-f377-4dee-b1a6-5785e08bbd00" />
 
 <p>
