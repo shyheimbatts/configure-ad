@@ -381,12 +381,6 @@ Password: Myworldlab123!
 <img width="430" height="372" alt="Azure step 88" src="https://github.com/user-attachments/assets/f10a60d1-b144-46df-a9e0-0fbfd65e76ba" />
 
 
-**_EMPLOYEES Oganizational Unit↓**
-
-<p>
- <img width="148" height="37" alt="Screenshot 2026-04-13 at 3 41 52 PM" src="https://github.com/user-attachments/assets/04a86bc9-bd38-4ef3-8357-b9ca2f983aae" />
-</p>
-
 **Right click mydomain.com again, click "New" and go to "Organizational Unit."↓**
 
 <img width="619" height="507" alt="Azure step 89" src="https://github.com/user-attachments/assets/2ca6dd23-5579-4c57-9f5e-dea7590f4ead" />
@@ -396,7 +390,7 @@ Password: Myworldlab123!
 
 <img width="436" height="371" alt="Azure step 90" src="https://github.com/user-attachments/assets/92f90c2c-f377-4dee-b1a6-5785e08bbd00" />
 
-**_ADMINS Oganizational Unit↓**
+**Create a new employee named "Jane Doe" start by right clicking _ADMINS Oganizational Unit Folder → NEW → User↓**
 
 <p>
 <img width="97" height="19" alt="Azure step 91" src="https://github.com/user-attachments/assets/032e4efd-9d8a-4fef-9278-fdf04dc9a384" />
@@ -405,6 +399,11 @@ Password: Myworldlab123!
 <p>
 <img width="449" height="319" alt="Azure step 92" src="https://github.com/user-attachments/assets/6b14173f-9455-469f-92df-6e635acd6d26" />
 </p>
+
+
+
+
+
 
 <p>
 <img width="428" height="372" alt="Azure step 93" src="https://github.com/user-attachments/assets/b3670aa3-47b1-45cb-bd0c-6438d3cc888d" />
