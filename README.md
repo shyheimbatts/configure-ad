@@ -192,6 +192,13 @@ Log into the Virtual Machine.↓
 
 <img width="578" height="447" alt="Azure step 73" src="https://github.com/user-attachments/assets/79bbbd9e-9192-4f9d-aa70-2b2576417aa4" />
 
+<p>
+
+**Installation Complete, Click Close↓**
+ 
+</p>
+
+
 
 <img width="587" height="453" alt="Azure step 74" src="https://github.com/user-attachments/assets/3da184ee-c107-4f29-b144-8ecd4d8b9ec3" />
 
