@@ -73,10 +73,43 @@ Log into the Virtual Machine.↓
 
 <img width="579" height="158" alt="Azure step 32" src="https://github.com/user-attachments/assets/28c32b2f-960c-4e03-8d91-e8ac9db078ad" />
 <p>
+
+<p>
+
+**Click the start menu and go to Server Manager↓**
+ 
+</p>
+
+ 
 <img width="325" height="670" alt="Azure step 62" src="https://github.com/user-attachments/assets/4f8b080d-b7a0-4113-a145-a5ddb1f5f86d" />
 </p>
+
+<p>
+
+**Click Add roles and features↓**
+ 
+</p>
+
+
 <img width="1073" height="353" alt="Azure step 63" src="https://github.com/user-attachments/assets/f5a4fbb2-ce1c-44b1-a21c-60ecf93c2f7f" />
+
+
+<p>
+
+**Click Next↓**
+ 
+</p>
+
+
 <img width="778" height="524" alt="Azure step 64" src="https://github.com/user-attachments/assets/5b0b00aa-e02e-4a98-81b3-da34d20c5824" />
+
+
+<p>
+
+**Click Next↓**
+ 
+</p>
+
 <img width="778" height="553" alt="Azure step 65" src="https://github.com/user-attachments/assets/e566bd89-6f07-4389-a953-87e927cf2c3b" />
 <img width="761" height="509" alt="Azure step 66" src="https://github.com/user-attachments/assets/fe88baaa-aeca-4f25-9c92-28108868301f" />
 <p>
