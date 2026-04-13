@@ -155,12 +155,30 @@ Log into the Virtual Machine.↓
 <img width="584" height="454" alt="Azure step 69" src="https://github.com/user-attachments/assets/f5ae9f12-4a29-4a20-a8df-109173eddb25" />
 </p>
 
+<p>
 
+**Click Next↓**
+ 
+</p>
 
 <img width="585" height="427" alt="Azure step 70" src="https://github.com/user-attachments/assets/c8922291-6e86-4bc6-9cd8-1ed4242f93eb" />
 
+<p>
+
+**Click Next↓**
+ 
+</p>
+
+
+
 
 <img width="581" height="450" alt="Azure step 71" src="https://github.com/user-attachments/assets/be838879-4a81-445a-a64c-dca53e86104b" />
+
+<p>
+
+**Check Mark next to Restart the destination server automatically if required and Click "YES" to allow automatic restarts↓**
+ 
+</p>
 
 
 <img width="683" height="402" alt="Azure step 72" src="https://github.com/user-attachments/assets/fdffbb4d-30d2-4b6e-a2df-3fdc0b9d8cb7" />
