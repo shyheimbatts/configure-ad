@@ -357,15 +357,20 @@ Password: Myworldlab123!
  <h2>Step 2- Create a Domain Admin user within the domain</h2>
 
 
+**After logging into DC-1 as a Domain User, Begin step 2 by clicking the start menu and go to Windows Administrative Tools↓**
+
 <p>
 <img width="309" height="674" alt="Azure step 85" src="https://github.com/user-attachments/assets/03f177a3-0c4e-4fe9-a78e-183328dcd724" />
 </p>
 
-
+**Click on Active Directory Users and Computers↓**
 
 <p>
 <img width="260" height="210" alt="Azure step 86" src="https://github.com/user-attachments/assets/b0a4cc58-8c0e-43e8-bf85-5e0ff21bc41a" />
 </p>
+
+
+
 
 
 <img width="633" height="514" alt="Azure step 87" src="https://github.com/user-attachments/assets/4a9d96f2-897a-4ae4-957d-b367262c62dd" />
