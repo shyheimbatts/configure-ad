@@ -258,17 +258,47 @@ Type in the Directory Service Restore Mode Password↓
 
 <img width="759" height="557" alt="Azure step 77" src="https://github.com/user-attachments/assets/e4211474-1c25-4ca6-bce2-ced45e9f3c4d" />
 
+<p>
+
+**Leave Create DNS Delegation Unchecked.**
+
+
+**Click Next↓**
+ 
+</p>
+
 
 
 <img width="753" height="528" alt="Azure step 78" src="https://github.com/user-attachments/assets/089efa1f-072a-4543-a335-126a7d3f81c5" />
 
+<p>
+
+**Click Next↓**
+
+ 
+</p>
+
+
+
 
 <img width="754" height="525" alt="Azure step 79" src="https://github.com/user-attachments/assets/b5118327-daad-47c0-8ed5-9d8fcdf1c957" />
 
+<p>
+
+**Click Next↓**
+
+ 
+</p>
 
 
 <img width="749" height="510" alt="Azure step 80" src="https://github.com/user-attachments/assets/9c10c654-dd2a-440c-928b-98b865136bd2" />
 
+<p>
+
+**Click Next↓**
+
+ 
+</p>
 
 
 <img width="743" height="514" alt="Azure step 81" src="https://github.com/user-attachments/assets/c2475b52-6129-496d-bcfe-09625ced4a6e" />
