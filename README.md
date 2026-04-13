@@ -55,8 +55,22 @@ Log into the Virtual Machine.↓
  Password: Myworldlab123! 
 </p>
 
+<p>
+
+**Click Continue**
+ 
+</p>
+
 <img width="435" height="224" alt="Azure step 31" src="https://github.com/user-attachments/assets/b56c67c2-5b4d-4af4-8c77-308f6f395b84" />
 </p>
+
+<p>
+
+**Click Continue↓**
+
+</p>
+
+
 <img width="579" height="158" alt="Azure step 32" src="https://github.com/user-attachments/assets/28c32b2f-960c-4e03-8d91-e8ac9db078ad" />
 <p>
 <img width="325" height="670" alt="Azure step 62" src="https://github.com/user-attachments/assets/4f8b080d-b7a0-4113-a145-a5ddb1f5f86d" />
