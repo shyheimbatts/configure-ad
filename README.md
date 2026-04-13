@@ -370,7 +370,7 @@ Password: Myworldlab123!
 </p>
 
 
-
+**Right click mydomain.com, click "New" and go to "Organizational Unit."↓**
 
 
 <img width="633" height="514" alt="Azure step 87" src="https://github.com/user-attachments/assets/4a9d96f2-897a-4ae4-957d-b367262c62dd" />
