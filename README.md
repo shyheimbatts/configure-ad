@@ -585,14 +585,19 @@ Begin by selecting Client-1 from microsoft remote desktop↓
 <img width="1039" height="427" alt="Azure step 108" src="https://github.com/user-attachments/assets/29932008-dd9b-44ab-85ab-22fd378dfc23" />
 </p>
 
-
-
+**Select the "Computer Name" tab and click "Change"↓**
 
 <p>
 <img width="405" height="459" alt="Azure step 109" src="https://github.com/user-attachments/assets/e61d3ba5-26db-4cf8-b54c-56ea994856d0" />
 </p>
 
+**Under "Member of" type in "mydomain.com" to join Client-1 to the domain↓**
 
+<p>
+
+**Click "OK"**
+ 
+</p>
 
 <p>
 <img width="317" height="392" alt="Azure step 110" src="https://github.com/user-attachments/assets/2b3de9d0-63cc-4d0c-a7e8-fe34ef569736" />
