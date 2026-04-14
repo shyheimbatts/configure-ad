@@ -39,7 +39,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 
-Begin by selecting dc-1 from miscrosoft remote desktop↓ 
+Begin by selecting DC-1 from microsoft remote desktop↓ 
 
 <p>
 <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/dddd7d60-b01f-4e4e-a321-0f5f49395254" />
@@ -542,11 +542,29 @@ Click "Finish" to officially create the new employee named "Jane Doe" ↓
 
 <h2>Step 3- Join Client-1 to your domain (mydomain.com)</h2>
 
-
+Begin by selecting Client-1 from microsoft remote desktop↓
 
 <p>
 <img width="367" height="213" alt="Azure step 102" src="https://github.com/user-attachments/assets/66245173-b83a-44b5-b531-2044e0ca4174" />
 </p>
+
+
+<p>
+
+**Enter in Username / Password and Click Continue to Log In.↓**
+
+<p>
+ Username: shylabuser
+</p>
+
+<p>
+ Password: Myworldlab123!
+</p>
+
+
+
+
+
 <p>
 <img width="430" height="154" alt="Azure step 103" src="https://github.com/user-attachments/assets/1f06c7c1-f371-4982-ab6f-8b718e959bfb" />
 </p>
