@@ -778,50 +778,89 @@ Password: Myworldlab123!
 </p>
 
 
+**Click "Add"↓**
+
 <p>
 <img width="370" height="323" alt="Azure step 126" src="https://github.com/user-attachments/assets/b5d68dc0-16eb-4b3f-9b1c-fa4991d557c5" />
 </p>
 
+**Type "Domain Users," Click "Check Names" and "OK"↓**
 
 <p>
 <img width="452" height="242" alt="Azure step 127" src="https://github.com/user-attachments/assets/29b488bd-9351-42ee-84b8-72999c76aa3b" />
 </p>
+
+**"Click "OK"↓**
+
+<p>
+ -which means that all domain users by default should be allowed to log into this computer.
+</p>
+
 <p>
 <img width="373" height="327" alt="Azure step 128" src="https://github.com/user-attachments/assets/fef980c9-e556-451b-8f72-722f1188c266" />
 </p>
+
+
+
 <p>
 <img width="391" height="258" alt="Azure" src="https://github.com/user-attachments/assets/ab339eeb-efbe-44db-b167-0ac88dcd1062" />
 </p>
+
+
 <p>
 <img width="432" height="152" alt="Azure step 122" src="https://github.com/user-attachments/assets/56b1f18f-d948-4f10-95e9-5848f6611e74" />
 </p>
+
+
 <p>
 <img width="425" height="663" alt="Azure step 129" src="https://github.com/user-attachments/assets/09325f03-bfe8-4330-a59f-cccb7617e48a" />
 </p>
+
+
 <p>
 <img width="714" height="87" alt="Azure step 130" src="https://github.com/user-attachments/assets/b82d8c0a-6872-4cca-979b-3be215695eb9" />
 </p>
+
+
+
 <p>
 <img width="1064" height="732" alt="Azure step 131" src="https://github.com/user-attachments/assets/b9a8665e-58ef-4f3a-a658-875fecdc09ed" />
 </p>
+
+
+
 <p>
 <img width="947" height="370" alt="Azure step 132" src="https://github.com/user-attachments/assets/71c03ffa-0af4-4d80-9ef9-27dbca9e2316" />
 </p>
+
+
 <p>
 <img width="704" height="465" alt="Azure step 133" src="https://github.com/user-attachments/assets/853105f7-9f2e-419e-b58c-9b9627555bf2" />
 </p>
+
+
 <p>
 <img width="252" height="171" alt="Azure step 134" src="https://github.com/user-attachments/assets/c78eb757-11bb-4204-b29b-7a3264f5ebae" />
 </p>
+
+
+
 <p>
 <img width="1403" height="348" alt="Azure step 135" src="https://github.com/user-attachments/assets/300bb5a4-e861-4207-bb21-4f88034caf52" />
 </p>
+
+
 <p>
 <img width="134" height="75" alt="Azure step 136" src="https://github.com/user-attachments/assets/6e104aa5-e45e-4adc-8948-0629eb19d5e9" />
 </p>
+
+
 <p>
 <img width="445" height="105" alt="Azure step 137" src="https://github.com/user-attachments/assets/410d1318-68a8-479e-aaaf-25601b34d6a3" />
 </p>
+
+
+
 <p>
 <img width="500" height="325" alt="Azure step 138" src="https://github.com/user-attachments/assets/88c9c74b-5627-4e8e-aaf7-484b99ebb69c" />
 </p>
