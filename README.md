@@ -694,14 +694,32 @@ Password: Myworldlab123!
 </p>
 
 
+**Create a new organizational unit by expanding "mydomain.com," clicking New → Then click "Organizational Unit"↓**
+
 <p>
 <img width="635" height="342" alt="Azure step 118" src="https://github.com/user-attachments/assets/63f5412d-a6d2-40f4-8c21-fd0d32e2f66f" />
 </p>
 
 
+
+**Type in _CLIENTS and Click "OK" to save it as an Organizational Unit.↓**
+
+<img width="417" height="359" alt="Screenshot 2026-04-13 at 11 45 56 PM" src="https://github.com/user-attachments/assets/6cd70b4f-a3b9-4923-857f-cafdefe37e0a" />
+
+
+**Go to "Computers" folder and Select "Client-1"↓**
+
 <p>
 <img width="97" height="17" alt="Azure step 119" src="https://github.com/user-attachments/assets/bad9ff58-7bef-49fd-b473-f2af0e092c9b" />
 </p>
+
+**Drag Client-1 into "_Clients" folder↓**
+
+<p>
+<img width="159" height="21" alt="Azure step 117" src="https://github.com/user-attachments/assets/81532077-ac3e-4fcb-8aa9-09f1d43c09ab" />
+</p>
+
+**Click "YES"↓**
 
 
 <p>
