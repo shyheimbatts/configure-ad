@@ -621,17 +621,20 @@ Begin by selecting Client-1 from microsoft remote desktop↓
 </p>
 
 
-
+**Permisson to join was granted, Click "OK"↓**
 
 <p>
 <img width="296" height="143" alt="Azure step 112" src="https://github.com/user-attachments/assets/e5366a1a-ed9a-4c42-ab26-8ad6554cf3f7" />
 </p>
 
-
+**CLick "OK" to restart computer and apply these changes.↓**
 
 <p>
 <img width="344" height="172" alt="Azure step 113" src="https://github.com/user-attachments/assets/aba1fffd-e620-4248-a265-c1fbaaec6563" />
 </p>
+
+
+**Click "Restart Now↓**
 
 
 <p>
