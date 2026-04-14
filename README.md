@@ -829,24 +829,26 @@ Password: Myworldlab123!
 <img width="425" height="663" alt="Azure step 129" src="https://github.com/user-attachments/assets/09325f03-bfe8-4330-a59f-cccb7617e48a" />
 </p>
 
+**Click "Yes"↓**
 
+<p>
+<img width="315" height="213" alt="Screenshot 2026-04-14 at 1 36 00 AM" src="https://github.com/user-attachments/assets/085e398f-e7c8-46eb-9d90-17009b4b535b" />
+</p>
+
+**Powershell opened↓**
 
 
 <p>
 <img width="714" height="87" alt="Azure step 130" src="https://github.com/user-attachments/assets/b82d8c0a-6872-4cca-979b-3be215695eb9" />
 </p>
 
-
-
-<p>
-<img width="1064" height="732" alt="Azure step 131" src="https://github.com/user-attachments/assets/b9a8665e-58ef-4f3a-a658-875fecdc09ed" />
-</p>
-
-
+**Click the "New Script" tab.↓**
 
 <p>
 <img width="947" height="370" alt="Azure step 132" src="https://github.com/user-attachments/assets/71c03ffa-0af4-4d80-9ef9-27dbca9e2316" />
 </p>
+
+**Save "New Script" on the desktop as "create-users"↓**
 
 
 <p>
@@ -854,15 +856,22 @@ Password: Myworldlab123!
 </p>
 
 
+
+**Make a copy of this Script↓**
+
 <p>
-<img width="252" height="171" alt="Azure step 134" src="https://github.com/user-attachments/assets/c78eb757-11bb-4204-b29b-7a3264f5ebae" />
+<img width="1064" height="732" alt="Azure step 131" src="https://github.com/user-attachments/assets/b9a8665e-58ef-4f3a-a658-875fecdc09ed" />
 </p>
 
 
+**Paste the script↓**
 
 <p>
 <img width="1403" height="348" alt="Azure step 135" src="https://github.com/user-attachments/assets/300bb5a4-e861-4207-bb21-4f88034caf52" />
 </p>
+
+
+**Click green play icon to run script↓**
 
 
 <p>
@@ -870,42 +879,68 @@ Password: Myworldlab123!
 </p>
 
 
+**Click "OK"↓**
+
 <p>
 <img width="445" height="105" alt="Azure step 137" src="https://github.com/user-attachments/assets/410d1318-68a8-479e-aaaf-25601b34d6a3" />
 </p>
 
-
+**Users being Created↓**
 
 <p>
 <img width="500" height="325" alt="Azure step 138" src="https://github.com/user-attachments/assets/88c9c74b-5627-4e8e-aaf7-484b99ebb69c" />
 </p>
+
+
+
+
 <p>
 <img width="712" height="615" alt="Azure step 139" src="https://github.com/user-attachments/assets/498881b5-50f5-47d8-abc3-7f629ea2b1af" />
 </p>
+
+
+
 <p>
 <img width="432" height="148" alt="Azure step 144" src="https://github.com/user-attachments/assets/773ac60d-f92d-42cb-ac1c-979816ff403d" />
 </p>
+
+
 <p>
 <img width="345" height="466" alt="Azure step 145" src="https://github.com/user-attachments/assets/333e08d6-06e5-4ef4-9dd6-0ac6ce181cbc" />
 </p>
+
+
+
 <p>
 <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/6f8af8d9-febf-4251-adfb-f88c1631f569" />
 </p>
+
+
 <p>
 <img width="309" height="674" alt="Azure step 85" src="https://github.com/user-attachments/assets/a5259283-143b-499c-9844-4f5a0517c6f5" />
 </p>
+
+
 <p>
 <img width="260" height="210" alt="Azure step 86" src="https://github.com/user-attachments/assets/970b7a43-f704-4a2e-8884-74f1624cee33" />
 </p>
+
+
 <p>
 <img width="341" height="64" alt="Azure step 143" src="https://github.com/user-attachments/assets/d762d3b1-e1df-4328-af63-3f26e51d15f0" />
 </p>
+
+
 <p>
 <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/1d17ef95-50b9-4b8c-9cfb-cb376e51c2ea" />
 </p>
+
+
 <p>
 <img width="432" height="148" alt="Azure step 144" src="https://github.com/user-attachments/assets/f92bfe13-2077-42ee-b625-f600bee6e70b" />
 </p>
+
+
 configure group policy
 <p>
 <img width="245" height="534" alt="Screenshot 2026-03-03 at 2 16 13 AM" src="https://github.com/user-attachments/assets/e89f6f23-0753-4aaa-a80d-23cafa7e9a09" />
