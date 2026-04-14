@@ -726,6 +726,9 @@ Password: Myworldlab123!
 <img width="867" height="400" alt="Azure step 120" src="https://github.com/user-attachments/assets/deef0c17-fddf-4440-9aad-e9e655d36ade" />
 </p>
 
+<h2>Step 4- Setup Remote Desktop for non-administrative users on Client-1</h2>
+
+
 
 <p>
 <img width="370" height="231" alt="Azure step 121" src="https://github.com/user-attachments/assets/e84af216-3c93-4a5c-9d1c-97019f29bee2" />
