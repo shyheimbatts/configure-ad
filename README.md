@@ -642,53 +642,103 @@ Begin by selecting Client-1 from microsoft remote desktop↓
 </p>
 
 
+**Client-1 Restarting↓**
+
 <p>
 <img width="357" height="291" alt="Azure Azure" src="https://github.com/user-attachments/assets/bc790620-5e67-4930-b91c-0e7f4f29022c" />
 </p>
 
+**Select DC-1 from microsoft remote desktop to verify Client-1 shows up in Active Directory Users and Computers↓**
 
 <p>
 <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/46e5665d-6009-49d3-9d25-52e5898e3d8a" />
 </p>
+
+Enter in Username / Password and Click Continue to Log In.↓
+
+<p>
+Username: mydomain.com\jane_admin
+</p>
+
+<p>
+Password: Myworldlab123!
+</p>
+
+**Click Continue**
+
+
+
 <p>
 <img width="430" height="151" alt="Azure step 106" src="https://github.com/user-attachments/assets/a39563af-d511-41a3-8228-1d821ee6c4f7" />
 </p>
+
+
+**From the start menu, type in "Active Directory Users and Computers" and click it.↓**
+
 <p>
 <img width="331" height="679" alt="Azure step 115" src="https://github.com/user-attachments/assets/ff1ba640-e2c8-45b5-9ff6-6201f985c7ae" />
 </p>
+
+
+**Expand "mydomain.com" and click "Computers" to verify Client-1 is located there.↓**
+
+
 <p>
 <img width="276" height="93" alt="Azure step 116" src="https://github.com/user-attachments/assets/1050d8a4-5b3d-42ef-a2b3-f2d77ef12200" />
 </p>
+
+**Client-1 has been identified↓**
+
 <p>
 <img width="159" height="21" alt="Azure step 117" src="https://github.com/user-attachments/assets/81532077-ac3e-4fcb-8aa9-09f1d43c09ab" />
 </p>
+
+
 <p>
 <img width="635" height="342" alt="Azure step 118" src="https://github.com/user-attachments/assets/63f5412d-a6d2-40f4-8c21-fd0d32e2f66f" />
 </p>
+
+
 <p>
 <img width="97" height="17" alt="Azure step 119" src="https://github.com/user-attachments/assets/bad9ff58-7bef-49fd-b473-f2af0e092c9b" />
 </p>
+
+
 <p>
 <img width="867" height="400" alt="Azure step 120" src="https://github.com/user-attachments/assets/deef0c17-fddf-4440-9aad-e9e655d36ade" />
 </p>
+
+
 <p>
 <img width="370" height="231" alt="Azure step 121" src="https://github.com/user-attachments/assets/e84af216-3c93-4a5c-9d1c-97019f29bee2" />
 </p>
+
+
 <p>
 <img width="432" height="152" alt="Azure step 122" src="https://github.com/user-attachments/assets/6ab8918e-a114-48a3-93be-aa23ff6becc5" />
 </p>
+
+
 <p>
 <img width="212" height="619" alt="Azure step 123" src="https://github.com/user-attachments/assets/13dc1eaf-324e-4b0f-8188-12ad506e3b28" />
 </p>
+
+
 <p>
 <img width="333" height="55" alt="Azure step 124" src="https://github.com/user-attachments/assets/d7c4428d-4c8e-4499-8424-035be6ca3451" />
 </p>
+
+
 <p>
 <img width="344" height="62" alt="Azure step 125" src="https://github.com/user-attachments/assets/02ed81ca-39a2-4310-84c6-f421c647a2fd" />
 </p>
+
+
 <p>
 <img width="370" height="323" alt="Azure step 126" src="https://github.com/user-attachments/assets/b5d68dc0-16eb-4b3f-9b1c-fa4991d557c5" />
 </p>
+
+
 <p>
 <img width="452" height="242" alt="Azure step 127" src="https://github.com/user-attachments/assets/29b488bd-9351-42ee-84b8-72999c76aa3b" />
 </p>
