@@ -536,6 +536,8 @@ Click "Finish" to officially create the new employee named "Jane Doe" ↓
  
 </p>
 
+
+**Click Continue**
  
 <img width="430" height="151" alt="Azure step 100" src="https://github.com/user-attachments/assets/f3890ba0-5e0e-4bee-9377-4361957ecaff" />
 </p>
@@ -728,27 +730,48 @@ Password: Myworldlab123!
 
 <h2>Step 4- Setup Remote Desktop for non-administrative users on Client-1</h2>
 
-
+Begin by clicking Client-1 from remote desktop to log back in as mydomain.com\jane_admin↓
 
 <p>
 <img width="370" height="231" alt="Azure step 121" src="https://github.com/user-attachments/assets/e84af216-3c93-4a5c-9d1c-97019f29bee2" />
 </p>
+
+Enter in Username / Password and Click Continue to Log In.↓
+
+<p>
+Username: mydomain.com\jane_admin
+</p>
+
+<p>
+Password: Myworldlab123!
+</p>
+
+
+**Click Continue**
+
+
 
 
 <p>
 <img width="432" height="152" alt="Azure step 122" src="https://github.com/user-attachments/assets/6ab8918e-a114-48a3-93be-aa23ff6becc5" />
 </p>
 
+**From the start menu click "System"↓**
+
 
 <p>
 <img width="212" height="619" alt="Azure step 123" src="https://github.com/user-attachments/assets/13dc1eaf-324e-4b0f-8188-12ad506e3b28" />
 </p>
+
+**Open Remote desktop↓**
 
 
 <p>
 <img width="333" height="55" alt="Azure step 124" src="https://github.com/user-attachments/assets/d7c4428d-4c8e-4499-8424-035be6ca3451" />
 </p>
 
+
+**Click "Remote desktop users"↓**
 
 <p>
 <img width="344" height="62" alt="Azure step 125" src="https://github.com/user-attachments/assets/02ed81ca-39a2-4310-84c6-f421c647a2fd" />
