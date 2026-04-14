@@ -822,9 +822,14 @@ Password: Myworldlab123!
 </p>
 
 
+**From the start menu search "Powershell ISE" and right click to "Run as administrator"↓**
+
+
 <p>
 <img width="425" height="663" alt="Azure step 129" src="https://github.com/user-attachments/assets/09325f03-bfe8-4330-a59f-cccb7617e48a" />
 </p>
+
+
 
 
 <p>
