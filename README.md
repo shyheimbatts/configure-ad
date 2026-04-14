@@ -569,35 +569,66 @@ Begin by selecting Client-1 from microsoft remote desktop↓
 <img width="430" height="154" alt="Azure step 103" src="https://github.com/user-attachments/assets/1f06c7c1-f371-4982-ab6f-8b718e959bfb" />
 </p>
 
+
+**Click the Start menu and select "System"↓**
+
+
+
 <p>
 <img width="226" height="617" alt="Azure step 107" src="https://github.com/user-attachments/assets/1a765018-2941-4b94-9ed6-8131cf2ffd56" />
 </p>
+
+**Click "Advanced system settings"↓**
+
+
 <p>
 <img width="1039" height="427" alt="Azure step 108" src="https://github.com/user-attachments/assets/29932008-dd9b-44ab-85ab-22fd378dfc23" />
 </p>
+
+
+
 
 <p>
 <img width="405" height="459" alt="Azure step 109" src="https://github.com/user-attachments/assets/e61d3ba5-26db-4cf8-b54c-56ea994856d0" />
 </p>
 
+
+
 <p>
 <img width="317" height="392" alt="Azure step 110" src="https://github.com/user-attachments/assets/2b3de9d0-63cc-4d0c-a7e8-fe34ef569736" />
 </p>
+
+
+
+
 <p>
 <img width="445" height="364" alt="Azure step 111" src="https://github.com/user-attachments/assets/588bcc9a-f6d2-45f5-8264-70a3d6767bd9" />
 </p>
+
+
+
+
 <p>
 <img width="296" height="143" alt="Azure step 112" src="https://github.com/user-attachments/assets/e5366a1a-ed9a-4c42-ab26-8ad6554cf3f7" />
 </p>
+
+
+
 <p>
 <img width="344" height="172" alt="Azure step 113" src="https://github.com/user-attachments/assets/aba1fffd-e620-4248-a265-c1fbaaec6563" />
 </p>
+
+
 <p>
 <img width="351" height="169" alt="Azure step 114" src="https://github.com/user-attachments/assets/cfcf42f3-ae88-4991-811d-4fe24b6cdb34" />
 </p>
+
+
 <p>
 <img width="357" height="291" alt="Azure Azure" src="https://github.com/user-attachments/assets/bc790620-5e67-4930-b91c-0e7f4f29022c" />
 </p>
+
+
 <p>
 <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/46e5665d-6009-49d3-9d25-52e5898e3d8a" />
 </p>
