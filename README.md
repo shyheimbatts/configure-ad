@@ -885,25 +885,36 @@ Password: Myworldlab123!
 <img width="445" height="105" alt="Azure step 137" src="https://github.com/user-attachments/assets/410d1318-68a8-479e-aaaf-25601b34d6a3" />
 </p>
 
-**Users being Created↓**
+**Observe users being Created↓**
 
 <p>
 <img width="500" height="325" alt="Azure step 138" src="https://github.com/user-attachments/assets/88c9c74b-5627-4e8e-aaf7-484b99ebb69c" />
 </p>
 
 
-
+**Go to Active Directory Users and Computers, Expand "mydomain.com" and click "_Employees" to observe and pick a user to attempt to log into Client-1 with.↓**
 
 <p>
 <img width="712" height="615" alt="Azure step 139" src="https://github.com/user-attachments/assets/498881b5-50f5-47d8-abc3-7f629ea2b1af" />
 </p>
 
+**Click Client-1 from remote desktop to Log In using an account from The Organization Unit "_EMPLOYEES"↓**
+
+<img width="367" height="213" alt="Azure step 102" src="https://github.com/user-attachments/assets/66245173-b83a-44b5-b531-2044e0ca4174" />
+
+
+Enter in Username / Password and Click Continue to Log In.↓
+
+Username: mydomain.com\com.neb
+
+Password: Password1
 
 
 <p>
 <img width="432" height="148" alt="Azure step 144" src="https://github.com/user-attachments/assets/773ac60d-f92d-42cb-ac1c-979816ff403d" />
 </p>
 
+**mydomain.com\com.neb Log In was successful↓**
 
 <p>
 <img width="345" height="466" alt="Azure step 145" src="https://github.com/user-attachments/assets/333e08d6-06e5-4ef4-9dd6-0ac6ce181cbc" />
