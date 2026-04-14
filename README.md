@@ -26,7 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1 **Install Active Directory**
 - Step 2 **Create a Domain Admin user within the domain**
-- Step 3 **Join Client-1 to your domain**
+- Step 3 **Join Client-1 to your domain (mydomain.com)**
 - Step 4 **Setup Remote Desktop for non-administrative users on Client-1**
 - Step 5 **Create addiotional users and attempt to log into Client-1 with one of the users**
 
@@ -505,17 +505,45 @@ Click "Finish" to officially create the new employee named "Jane Doe" ↓
 <img width="380" height="209" alt="Azure step 100" src="https://github.com/user-attachments/assets/efa3a978-2b5d-46ed-a1b8-3449fbdb1c9e" />
 </p>
 
-**Officially Signed Out↓**
+**Officially Signed Out of username: shylabuser↓**
 
 
 <p>
 <img width="220" height="153" alt="Azure step 101" src="https://github.com/user-attachments/assets/c63af1e1-252c-4353-ba9a-774932df950c" />
 </p>
 
+
+<p>
+
+**Click DC-1 to log back in as mydomain.com\jane_admin↓**
+
+</p>
+
 <img width="379" height="222" alt="Azure step 30" src="https://github.com/user-attachments/assets/d3e38648-282b-4195-b57a-73bb209c7537" />
 <p>
+
+<p>
+
+**Enter in Username / Password and Click Continue to Log In.↓**
+
+<p>
+ Username: mydomain.com\jane_admin
+</p>
+
+<p>
+ Password: Myworldlab123!
+</p>
+ 
+</p>
+
+ 
 <img width="430" height="151" alt="Azure step 100" src="https://github.com/user-attachments/assets/f3890ba0-5e0e-4bee-9377-4361957ecaff" />
 </p>
+
+<h2>Step 3- Join Client-1 to your domain (mydomain.com)</h2>
+
+
+
 <p>
 <img width="367" height="213" alt="Azure step 102" src="https://github.com/user-attachments/assets/66245173-b83a-44b5-b531-2044e0ca4174" />
 </p>
