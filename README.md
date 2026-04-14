@@ -603,7 +603,17 @@ Begin by selecting Client-1 from microsoft remote desktop↓
 <img width="317" height="392" alt="Azure step 110" src="https://github.com/user-attachments/assets/2b3de9d0-63cc-4d0c-a7e8-fe34ef569736" />
 </p>
 
+**Enter in Username and Password↓**
 
+<p>
+ Username: mydomain.com\jane_admin
+</p>
+
+<p>
+ Password: Myworldlab123!
+</p>
+
+**Click "OK"**
 
 
 <p>
